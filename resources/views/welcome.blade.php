@@ -1,5 +1,13 @@
 <x-layout>
     <div class="space-y-10">
+        <section class="text-center pt-8 pb-16">
+            <h1 class="font-bold text-4xl">Let's Find Your Dream Job</h1>
+
+            <form action="">
+                <input type="text" placeholder="Web Developer..." class="rounded-xl bg-gray-100 outline-gray-400 px-5 py-4 w-full mt-6 max-w-2xl">
+            </form>
+        </section>
+
         <section>
             <x-section-heading>Top Jobs</x-section-heading>
 
