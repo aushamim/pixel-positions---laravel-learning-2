@@ -10,7 +10,7 @@
     @vite(['resources/js/app.js'])
 </head>
 
-<body>
+<body class="font-hanken-grotesk">
     <nav class="px-40 flex justify-between items-center border-b-2 border-gray-100">
         <div>
             <a href="/" class="flex items-center">
